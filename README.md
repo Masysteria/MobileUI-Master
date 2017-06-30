@@ -10,7 +10,7 @@ Go to app.js en uncomment the line 21 to be able to work in your localhost.
 You need to do the same on moblieUI-main.js and mobileUI.js
 
 Each element of the UI has a method in wich you can put your code to interact with your site.
-You'll find those methods in main-mobile.js. From there, it's pretty much straight forward.
+You'll find those methods in main-mobile.js. From there, it's pretty straight forward.
 You can make every DOM manipulation you want (jQuery already included) with the click of a button.
 
 The UI contains buttons, sliders and checkboxes.
